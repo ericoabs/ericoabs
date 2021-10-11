@@ -16,7 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericoabs&show_icons=true&locale=en&layout=compact" alt="ericoabs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericoabs&show_icons=true&locale=en" alt="ericoabs" /></p>
-
-# ericoabs
-# ericoabs
-# ericoabs
