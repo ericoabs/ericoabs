@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ericoabs25@gmail.com**
 
-- 📄 Know about my experiences in my <a href="https://docs.google.com/document/d/1sfpKmd8UrDON4Fb5RSBycDWXovcCHKFSvCfY0sjAL70/edit?usp=sharing">resume</a> (https://docs.google.com/document/d/1sfpKmd8UrDON4Fb5RSBycDWXovcCHKFSvCfY0sjAL70/edit?usp=sharing)
+- 📄 Know about my experiences in my <a target="_blank" href="https://docs.google.com/document/d/1sfpKmd8UrDON4Fb5RSBycDWXovcCHKFSvCfY0sjAL70/edit?usp=sharing">resume</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
